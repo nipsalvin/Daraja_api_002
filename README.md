@@ -1,2 +1,2 @@
-# Daraja_mpesa
-derived from CodeLense
+# daraja-api
+Contains Java (Spring Framework) Implementations Of Mpesa Daraja API
