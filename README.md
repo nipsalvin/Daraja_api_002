@@ -1,2 +1,3 @@
-# daraja-api
-Contains Java (Spring Framework) Implementations Of Mpesa Daraja API
+DO NOT USE YET!!
+Some files missing 
+Still a work in progress
